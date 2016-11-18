@@ -3,11 +3,11 @@ Junior Software Developer for Vubeology
 	Job posting link: http://www.indeed.com/viewjob?jk=43f9313c1814a7f6&q=junior+developer&l=Austin%2C+TX&tk=1b1sejaatagp5c48&from=web
 	
 	Why I'm interested:
-		I'm looking for opportunities that involve testing and debugging in addition to writin new code.
-		I'm a problem solver and I love finding out how things work.I feel that having an entry-level job 
+		I'm looking for opportunities that involve testing and debugging code in addition to writing new code.
+		I'm a problem solver and I love finding out how things work. I feel that having an entry-level job 
 		that focuses on testing and debugging will give me the opportunity to see the best practices of coding 
 		websites and applications first hand. Also I feel testing and debugging will give me the ability to 
-		further acquaint myself with several languages.The job posting above has an ideal mix of creating code 
+		further acquaint myself with several languages. The job posting above has an ideal mix of creating code 
 		using best practices but also digging into already established code to find bugs or optimize the code.
 
 
