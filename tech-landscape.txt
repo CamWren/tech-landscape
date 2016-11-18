@@ -1,0 +1,28 @@
+Junior Software Developer for Vubeology
+
+	Job posting link: http://www.indeed.com/viewjob?jk=43f9313c1814a7f6&q=junior+developer&l=Austin%2C+TX&tk=1b1sejaatagp5c48&from=web
+	
+	Why I'm interested:
+		I'm looking for opportunities that involve testing and debugging in addition to writin new code.
+		I'm a problem solver and I love finding out how things work.I feel that having an entry-level job 
+		that focuses on testing and debugging will give me the opportunity to see the best practices of coding 
+		websites and applications first hand. Also I feel testing and debugging will give me the ability to 
+		further acquaint myself with several languages.The job posting above has an ideal mix of creating code 
+		using best practices but also digging into already established code to find bugs or optimize the code.
+
+
+
+Junior Web Developer for UFCU
+	
+	Job posting link: https://recruiting.ultipro.com/UNI1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=ae19bdfa-24dd-48ab-ac1d-50d0e92edf25&mode=job&iis=Job+Board/Website&iisn=Indeed 
+		
+	Why I'm interested:
+		This opportunity involves a bit of digital marketing which is something I majored in at UT Austin.
+		I like the idea of combining two different degree backgrounds into one job. This opportunity also
+		affords the chance to dive into back-end development with maintaining established databases which 
+		is something I am not only interested in learning more about but I feel would make me a well-rounded
+		developer. Another thing about this opportunity that resonates with me is the chance to peek into the 
+		world of cyber-security. Lastly, there are chances to work with third parties such as web hosting, outside 
+		web development/design agencies, and online banking partners. This would give me a macro overview of the
+		entire ecosystem of teams and individuals it takes to execute buiding web and mobile apps specifically 
+		for clients. 
